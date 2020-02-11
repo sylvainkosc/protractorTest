@@ -35,7 +35,7 @@ describe('calutaro tests', function () {
 
         homepage.verifyResult('5');
 
-        browser.sleep(3000);
+        browser.sleep(2000);
 
     })
 });
